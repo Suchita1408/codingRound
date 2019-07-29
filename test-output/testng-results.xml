@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13345" started-at="2019-07-28T18:22:28Z" finished-at="2019-07-28T18:22:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13345" started-at="2019-07-28T18:22:28Z" finished-at="2019-07-28T18:22:42Z">
+      <class name="codoingRound.FlightBookingTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:codoingRound.FlightBookingTest@2a18f23c]" name="setUp" is-config="true" duration-ms="9348" started-at="2019-07-28T23:52:28Z" finished-at="2019-07-28T23:52:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testThatResultsAppearForAOneWayJourney()[pri:0, instance:codoingRound.FlightBookingTest@2a18f23c]" name="testThatResultsAppearForAOneWayJourney" duration-ms="2579" started-at="2019-07-28T23:52:38Z" finished-at="2019-07-28T23:52:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThatResultsAppearForAOneWayJourney -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:codoingRound.FlightBookingTest@2a18f23c]" name="tearDown" is-config="true" duration-ms="1397" started-at="2019-07-28T23:52:40Z" finished-at="2019-07-28T23:52:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- codoingRound.FlightBookingTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
